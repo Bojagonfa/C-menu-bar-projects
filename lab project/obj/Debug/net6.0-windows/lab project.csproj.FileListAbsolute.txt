@@ -1,0 +1,23 @@
+C:\Users\milli\Desktop\lab project\lab project\bin\Debug\net6.0-windows\lab project.exe
+C:\Users\milli\Desktop\lab project\lab project\bin\Debug\net6.0-windows\lab project.deps.json
+C:\Users\milli\Desktop\lab project\lab project\bin\Debug\net6.0-windows\lab project.runtimeconfig.json
+C:\Users\milli\Desktop\lab project\lab project\bin\Debug\net6.0-windows\lab project.dll
+C:\Users\milli\Desktop\lab project\lab project\bin\Debug\net6.0-windows\lab project.pdb
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form1.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.csproj.GenerateResource.cache
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.AssemblyInfoInputs.cache
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.AssemblyInfo.cs
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.csproj.CoreCompileInputs.cache
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.dll
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\refint\lab project.dll
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.pdb
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab project.genruntimeconfig.cache
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\ref\lab project.dll
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form2.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form3.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Properties.Resources.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form4.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form5.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form6.resources
+C:\Users\milli\Desktop\lab project\lab project\obj\Debug\net6.0-windows\lab_project.Form7.resources
